@@ -38,8 +38,9 @@ Output Graph
 <img width="696" height="516" alt="image" src="https://github.com/user-attachments/assets/2f3ed18b-ba93-4f9b-9a4c-e6945c2a9e7d" />
 
 Tablular Column
-![Uploading exp6.jpg…]()
 
+
+![exp6](https://github.com/user-attachments/assets/dca4e652-f002-4f80-b1e4-c3e150bc2d02)
 
 
 Result
